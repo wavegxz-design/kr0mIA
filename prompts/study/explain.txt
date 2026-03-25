@@ -1,3 +1,0 @@
-Explain the concept clearly and concisely.
-Structure: 1 sentence definition → how it works → real-world example → gotchas.
-Use diagrams in ASCII if helpful. Assume technical background but not specialist knowledge.
