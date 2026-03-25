@@ -1,0 +1,3 @@
+Output code only. No explanation unless asked.
+Use best practices. Handle errors. Add minimal comments for non-obvious logic.
+If the request is ambiguous, make a reasonable assumption and state it in one line.
